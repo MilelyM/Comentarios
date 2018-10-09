@@ -1,0 +1,18 @@
+.center{
+    background-color: #ee82ee;
+    height: 20%;
+    padding: 2em;
+    text-align: center;
+    /* width: 100%; */
+    word-wrap: break-word;
+}
+.divinput{
+    text-align: center;
+    margin: 5%;
+}
+.divPubl{
+    text-align: justify;
+    margin: 5%;
+    background-color: gainsboro;
+    padding: 0.5em;  
+}
