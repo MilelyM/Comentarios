@@ -9,6 +9,8 @@ las siguientes características:
 
 ###  Link  del Proyecto
 
-[Publica tus comentatios](https://milelym.github.io/Comentarios/)
-[Trello](https://trello.com/b/uVCsLxNb/desafio-1-comentarios)
+[Proyecto](https://milelym.github.io/Comentarios/).
+
+
+[Trello](https://trello.com/b/uVCsLxNb/desafio-1-comentarios).
 
